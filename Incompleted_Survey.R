@@ -1,7 +1,5 @@
 #install.packages("caret", dependencies = c("Depends", "Suggests"))
-
 #install.packages('ggplot2', dependencies = TRUE)
-
 #install.packages("ModelMetrics")
 #install.packages("generics")
 #install.packages("gower")
