@@ -4,7 +4,7 @@
  
  Documents: 
  
- - Transaction Analysis: an expamle for one of the analysis based on a fictive story. For improvement plese visit multiple Regressions 
+ - Transaction Analysis: an expamle for one of the analysis based on a fictive story. For improvement please visit multiple Regressions 
 - Incomplete Survey: 
 - Multiple Regressions: 
 - Market Basket Classification: 
